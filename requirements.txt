@@ -1,0 +1,6 @@
+# Core Dependencies
+aiogram==3.15.0
+aiosqlite==0.20.0
+
+# Environment Management
+python-dotenv==1.0.1
